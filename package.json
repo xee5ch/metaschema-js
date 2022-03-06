@@ -1,0 +1,32 @@
+{
+  "name": "metaschema-js",
+  "version": "0.0.1",
+  "description": "A parser for the data models of NIST's Metaschema Framework for Javascript and Typescript. ",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xee5ch/metaschema-js.git"
+  },
+  "keywords": [
+    "metaschema",
+    "oscal",
+    "security",
+    "compliance",
+    "security-assessment",
+    "security-automation",
+    "compliance-as-code"
+  ],
+  "author": "Al S",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/xee5ch/metaschema-js/issues"
+  },
+  "homepage": "https://github.com/xee5ch/metaschema-js#readme",
+  "dependencies": {
+    "@xmldom/xmldom": "^0.8.1",
+    "fontoxpath": "^3.25.1"
+  }
+}
